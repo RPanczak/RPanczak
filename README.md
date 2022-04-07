@@ -5,7 +5,7 @@ Welcome to my GitHub pages.
 I'm a geographer 🌐 and epidemiologist 🦠 working for the [@IeDEA-SA](https://github.com/IeDEA-SA) at the University of Bern 🇨🇭
 
 ### 📜Some of my completed projects include:
-- investigating influence of socioeconomic position on the SARS-CoV-2 testing, COVID-19 hospitalisation and mortality [here](https://github.com/jriou/covid-sep-ch)  
+- investigating influence of socioeconomic position on the COVID-19 testing, hospitalisation and mortality [here](https://github.com/jriou/covid-sep-ch)  
 - tracking century of excess mortality in Switzerland 🇨🇭, Sweden 🇸🇪 & Spain 🇪🇸 [here](https://github.com/RPanczak/ISPM_excess-mortality)  
 - working as reproduction analyst for SCORE project [here](https://github.com/RPanczak/SCORE_Siedner_covid_P3NJ) and [here](https://github.com/RPanczak/SCORE_Fielding-Miller_covid_R3pV)  
 
@@ -22,7 +22,7 @@ I'm a geographer 🌐 and epidemiologist 🦠 working for the [@IeDEA-SA](https:
 - machine learning in R [here](https://github.com/RPanczak/R_MLwR)
 
 ### 🎡 Some fun side projects include:  
-- Analysing animal permits & complaints in Brisbane 🇦🇺 to derive indicators of socioeconomic position [here](https://github.com/RPanczak/FUN_BCC-animals)  
+- analysing animal permits & complaints in Brisbane 🇦🇺 to derive indicators of socioeconomic position [here](https://github.com/RPanczak/FUN_BCC-animals)  
 - EDA of publically available Swisscom Mobility Insights [here](https://github.com/RPanczak/FUN_swisscom)  
 
 
