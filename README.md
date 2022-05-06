@@ -7,7 +7,7 @@ I'm a geographer 🌐 and epidemiologist 🦠 working for the [@IeDEA-SA](https:
 ### 📜Some of my completed projects include:
 - investigating influence of socioeconomic position on the COVID-19 testing, hospitalisation and mortality [here](https://github.com/jriou/covid-sep-ch)  
 - tracking century of excess mortality in Switzerland 🇨🇭, Sweden 🇸🇪 & Spain 🇪🇸 [here](https://github.com/RPanczak/ISPM_excess-mortality)  
-- working as reproduction analyst for three @CenterForOpenScience SCORE projects [here](https://github.com/RPanczak/SCORE_Siedner_covid_P3NJ), [here](https://github.com/RPanczak/SCORE_Fielding-Miller_covid_R3pV) and [here](https://github.com/RPanczak/SCORE_Kim_SocSciMed_2016_AqDO)    
+- working as reproduction analyst for [@CenterForOpenScience](https://github.com/CenterForOpenScience) [SCORE project](https://www.cos.io/score) [here](https://github.com/RPanczak/SCORE_Siedner_covid_P3NJ), [here](https://github.com/RPanczak/SCORE_Fielding-Miller_covid_R3pV) and [here](https://github.com/RPanczak/SCORE_Kim_SocSciMed_2016_AqDO)    
 
 ### 🚀 I'm currently working on:  
 - estimating excess mortality at high resolution [here](https://github.com/RPanczak/ISPM_geo-mortality)  
