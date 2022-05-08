@@ -22,7 +22,7 @@ I'm a geographer 🌐 and epidemiologist 🦠 working for the [@IeDEA-SA](https:
 
 ### 🎡 Some fun side projects include:  
 - analysing animal permits & complaints in Brisbane 🇦🇺 to derive indicators of socioeconomic position [here](https://github.com/RPanczak/FUN_BCC-animals)  
-- EDA of publically available Swisscom Mobility Insights [here](https://github.com/RPanczak/FUN_swisscom)  
+- analysing publically available Swisscom Mobility Insights [here](https://github.com/RPanczak/FUN_swisscom)  
 
 
 <!--
