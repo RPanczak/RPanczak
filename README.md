@@ -20,18 +20,16 @@ I'm a geographer 🌐 and epidemiologist 🦠 working for the [@IeDEA-SA](https:
 - implementing git & GitHub within our reasearch group  [here](https://github.com/IeDEA-SA/IeDEA_WG-open-science)
 - helping to strengthen open science movement within [@SwissRN](https://github.com/SwissRN)  
 
+### 🎡 Some fun side projects include:  
+- analysing animal permits & complaints in Brisbane 🇦🇺 to derive indicators of socioeconomic position [here](https://github.com/RPanczak/FUN_BCC-animals)  
+- analysing publically available Swisscom Mobility Insights [here](https://github.com/RPanczak/FUN_swisscom)  
+
 ### 🧐 I'm learning more about:  
 - survival analysis in R 
     - ✔️ with book [Applied Survival Analysis Using R](https://github.com/RPanczak/R_ASAuR)
 - machine learning in R 
     - ✔️ with book [Machine Learning with R](https://github.com/RPanczak/R_MLwR) 
     - 🚧 with book [Introduction to Statistical Learning](https://github.com/RPanczak/R_ISLR)
-
-### 🎡 Some fun side projects include:  
-- analysing animal permits & complaints in Brisbane 🇦🇺 to derive indicators of socioeconomic position [here](https://github.com/RPanczak/FUN_BCC-animals)  
-- analysing publically available Swisscom Mobility Insights [here](https://github.com/RPanczak/FUN_swisscom)  
-
-
 <!--
 **RPanczak/RPanczak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
