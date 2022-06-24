@@ -17,7 +17,7 @@ I'm a geographer 🌐 and epidemiologist 🦠 working for the [@IeDEA-SA](https:
 - analysing uptake of dolutegravir among people living in HIV in Southern Africa  
 - developing a prognostic model for patients who switched to dolutegravir  
 - development & validation of next release of the Swiss-SEP index [here](https://github.com/RPanczak/SNC_Swiss-SEP4)  
-- implementing git & GitHub within @IeDEA-SA [here](https://github.com/IeDEA-SA/IeDEA_WG-open-science)
+- leading implementation of git, GitHub and open science within [@IeDEA-SA](https://github.com/IeDEA-SA) [here](https://github.com/IeDEA-SA/IeDEA_WG-open-science)
 - helping to strengthen open science movement within [@SwissRN](https://github.com/SwissRN)  
 
 ### 🎡 Some fun side projects include:  
