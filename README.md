@@ -12,6 +12,10 @@ I'm a geographer 🌐 and epidemiologist 🦠 working for the [@IeDEA-SA](https:
     - [Siedner *et al.* (2020)](https://github.com/RPanczak/SCORE_Siedner_covid_P3NJ)
     - [Fielding-Miller *et al.* (2020)](https://github.com/RPanczak/SCORE_Fielding-Miller_covid_R3pV) 
     - [Kim & Radoias (2016)](https://github.com/RPanczak/SCORE_Kim_SocSciMed_2016_AqDO)    
+- searching for Techniques for Estimating MObile Populations in 🇦🇺 using: 
+    - Wi-Fi, Google Places and trasportation data on [campus](https://github.com/RPanczak/TEMPO_pop247) 
+    - scrapped road traffic data in the [city](https://github.com/RPanczak/TEMPO_BCC-traffic)
+    - Airbnb usage in the [country](https://github.com/RPanczak/TEMPO_Airbnb)
 
 ### 🚀 I'm currently working on:  
 - estimating excess mortality at high resolution [here](https://github.com/RPanczak/ISPM_excess-mortality-spatial)  
