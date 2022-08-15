@@ -26,7 +26,7 @@ I'm a geographer 🌐 and epidemiologist 🦠 working for the [@IeDEA-SA](https:
 - helping to strengthen open science movement within [@SwissRN](https://github.com/SwissRN)  
 
 ### 🎡 Some fun side projects include:  
-- analysing animal permits & complaints in Brisbane 🇦🇺 to derive indicators of socioeconomic position [here](https://github.com/RPanczak/FUN_BCC-animals)  
+- analysing dog permits in Brisbane 🇦🇺 to derive indicators of socioeconomic position [here](https://github.com/RPanczak/FUN_BCC-animal-permits)  
 - analysing publically available Swisscom 🇨🇭 Mobility Insights [here](https://github.com/RPanczak/FUN_swisscom)  
 
 ### 🧐 I'm learning more about:  
