@@ -35,16 +35,7 @@ I'm a geographer 🌐 and epidemiologist 🦠 working for the [@IeDEA-SA](https:
 - machine learning in R 
     - ✔️ with book [Machine Learning with R](https://github.com/RPanczak/R_MLwR) 
     - 🚧 with book [Introduction to Statistical Learning](https://github.com/RPanczak/R_ISLR)
-<!--
-**RPanczak/RPanczak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Shiny in R 
+    - 🚧 with miscelaneous [online materials](https://github.com/RPanczak/R_shiny-tutorials)
+    - 🚧 with book [Mastering Shiny](https://github.com/RPanczak/R_MS)
 
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
