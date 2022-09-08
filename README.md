@@ -30,8 +30,6 @@ I'm a geographer 🌐 and epidemiologist 🦠 working for the [@IeDEA-SA](https:
 - analysing publically available Swisscom 🇨🇭 Mobility Insights [here](https://github.com/RPanczak/FUN_swisscom)  
 
 ### 🧐 I'm learning more about:  
-- survival analysis in R 
-    - ✔️ with book [Applied Survival Analysis Using R](https://github.com/RPanczak/R_ASAuR)
 - machine learning in R 
     - ✔️ with book [Machine Learning with R](https://github.com/RPanczak/R_MLwR) 
     - 🚧 with book [Introduction to Statistical Learning](https://github.com/RPanczak/R_ISLR)
