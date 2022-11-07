@@ -18,7 +18,7 @@ I'm a geographer 🌐 and epidemiologist 🦠 working for the [@IeDEA-SA](https:
     - Airbnb usage in the [country](https://github.com/RPanczak/TEMPO_Airbnb)
 
 ### 🚀 I'm currently working on:  
-- estimating excess mortality at high resolution [here](https://github.com/RPanczak/ISPM_excess-mortality-spatial)  
+- looking at association of voting patterns and excess mortality in Switzerland [here](https://github.com/RPanczak/ISPM_excess-mortality-voting)  
 - analysing uptake of dolutegravir among people living in HIV in Southern Africa  
 - developing a prognostic model for patients who switched to dolutegravir  
 - development of fourth release of the Swiss-SEP index [here](https://github.com/RPanczak/SNC_Swiss-SEP4)  
