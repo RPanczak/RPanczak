@@ -6,6 +6,7 @@ I'm a geographer 🌐 and epidemiologist 🦠 working for the [@IeDEA-SA](https:
 
 ### 📜Some of my completed projects include:
 - update & re-validation of second release of the Swiss-SEP index [here](https://github.com/RPanczak/SNC_Swiss-SEP2)  
+- leading implementation of version control and open data within [@IeDEA-SA](https://github.com/IeDEA-SA) [here](https://github.com/IeDEA-SA/IeDEA_WG-open-science)
 - investigating influence of socioeconomic position on the COVID-19 testing, hospitalisation and mortality [here](https://github.com/jriou/covid-sep-ch)  
 - tracking century of excess mortality in Switzerland 🇨🇭, Sweden 🇸🇪 & Spain 🇪🇸 [here](https://github.com/RPanczak/ISPM_excess-mortality-historical)  
 - working as reproduction analyst for [@CenterForOpenScience](https://github.com/CenterForOpenScience) [SCORE project](https://www.cos.io/score) with three analyses
@@ -22,7 +23,6 @@ I'm a geographer 🌐 and epidemiologist 🦠 working for the [@IeDEA-SA](https:
 - analysing uptake of dolutegravir among people living in HIV in Southern Africa  
 - developing a prognostic model for patients who switched to dolutegravir  
 - development of fourth release of the Swiss-SEP index [here](https://github.com/RPanczak/SNC_Swiss-SEP4)  
-- leading implementation of git, GitHub and open science within [@IeDEA-SA](https://github.com/IeDEA-SA) [here](https://github.com/IeDEA-SA/IeDEA_WG-open-science)
 - helping to strengthen open science movement within [@SwissRN](https://github.com/SwissRN)  
 
 ### 🎡 Some fun side projects include:  
