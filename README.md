@@ -6,7 +6,7 @@ I'm a geographer 🌐 turned information manager 📈 turned epidemiologist 🦠
 
 I'm currently working as a senior data scientist at [@syngenta](https://github.com/syngenta) where I focus on reproducibility of research, mainly using #Rstats.  
 
-This space works mostly as a home for my personal projects and as an archive of my previous academic work at the University of Bern 🇨🇭 and The University of Queensland 🇦🇺.  
+This space works mostly as a home for (infrequent 😴) updates to my personal projects and as an archive of my previous academic work at the University of Bern 🇨🇭 and The University of Queensland 🇦🇺.  
 
 ### 📜Some of my completed projects include:
 - update & re-validation of second release of the Swiss-SEP index [here](https://github.com/RPanczak/SNC_Swiss-SEP2)  
@@ -44,3 +44,4 @@ This space works mostly as a home for my personal projects and as an archive of 
     - 🚧 with miscelaneous [online materials](https://github.com/RPanczak/R_shiny-tutorials)
     - 🚧 with book [Mastering Shiny](https://github.com/RPanczak/R_MS)
 
+Some other bits and pieces may occasionally also pop up on <a href="https://mastodon.social/@RPanczak" rel="me">Mastodon</a>. 
