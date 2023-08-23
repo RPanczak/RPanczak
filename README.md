@@ -4,7 +4,7 @@ Welcome to my GitHub pages.
 
 I'm a geographer 🌐 turned information manager 📈 turned epidemiologist 🦠. 
 
-I'm currently working as a senior data scientist at [@syngenta](https://github.com/syngenta) where I focus on reproducibility of research, mainly using #Rstats.  
+I'm currently working as a senior data scientist at [@syngenta](https://github.com/syngenta) where I focus on computational reproducibility, mainly using #Rstats. Majority of my development moved to close source on [GitLab](https://gitlab.com/Radoslaw.Panczak).   
 
 This space works mostly as a home for (infrequent 😴) updates to my personal projects and as an archive of my previous academic work at the University of Bern 🇨🇭 and The University of Queensland 🇦🇺.  
 
