@@ -41,7 +41,6 @@ This space works mostly as a home for (infrequent 😴) updates to my personal p
     - 🚧 with book [Statistics for Experimenters](https://github.com/RPanczak/R_SfE)
     - 🚧 with book [Design and Analysis of Experiments with R](https://github.com/RPanczak/R_DaAoEiR)
 - Shiny in R 
-    - 🚧 with miscelaneous [online materials](https://github.com/RPanczak/R_shiny-tutorials)
     - 🚧 with book [Mastering Shiny](https://github.com/RPanczak/R_MS)
 
 Some other bits and pieces may occasionally also pop up on <a href="https://mastodon.social/@RPanczak" rel="me">Mastodon</a>. 
