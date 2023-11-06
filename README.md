@@ -2,13 +2,13 @@
 
 Welcome to my GitHub pages.  
 
-I'm a geographer 🌐 turned information manager 📈 turned epidemiologist 🦠. 
+I'm a geographer 🌐 turned information manager 📈 turned epidemiologist 🦠 turned data scientist in #agrotech 🧑‍🌾🌱🚜. 
 
-I'm currently working as a senior data scientist at [@syngenta](https://github.com/syngenta) where I focus on computational reproducibility, mainly using #Rstats. Majority of my development moved to close source on [GitLab](https://gitlab.com/Radoslaw.Panczak).   
+I'm currently working as a senior data scientist at [@syngenta](https://github.com/syngenta) where I focus on computational reproducibility of research, mainly using #Rstats. Majority of my development moved to closed source projects on [GitLab](https://gitlab.com/Radoslaw.Panczak).   
 
-This space works mostly as a home for (infrequent 😴) updates to my personal projects and as an archive of my previous academic work at the University of Bern 🇨🇭 and The University of Queensland 🇦🇺.  
+This space works mostly as an archive of my previous academic work at the University of Bern 🇨🇭 and The University of Queensland 🇦🇺 and will be (infrequently 😴) updated with contributions to my personal projects.     
 
-### 📜Some of my completed projects include:
+### 📜 Some of my completed projects include:
 - update & re-validation of second release of the Swiss-SEP index [here](https://github.com/RPanczak/SNC_Swiss-SEP2)  
 - leading implementation of version control and open data within [@IeDEA-SA](https://github.com/IeDEA-SA) [here](https://github.com/IeDEA-SA/IeDEA_WG-open-science)
 - investigating influence of socioeconomic position on the COVID-19 testing, hospitalisation and mortality [here](https://github.com/jriou/covid-sep-ch)  
