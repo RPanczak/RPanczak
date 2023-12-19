@@ -1,12 +1,12 @@
 ## Hi there 🤘🏻 🤘🏼 🤘🏽 🤘🏾 🤘🏿
 
-Welcome to my GitHub pages.  
+### ⚓ Welcome to my GitHub pages.  
 
 I'm a geographer 🌐 turned information manager 📈 turned epidemiologist 🦠 turned data scientist in #agrotech 🧑‍🌾🌱🚜. 
 
 I'm currently working as a senior data scientist at [@syngenta](https://github.com/syngenta) where I focus on computational reproducibility of research, mainly using #Rstats. Majority of my development moved to closed source projects on [GitLab](https://gitlab.com/Radoslaw.Panczak).   
 
-This space works mostly as an archive of my previous academic work at the University of Bern 🇨🇭 and The University of Queensland 🇦🇺 and will be (infrequently 😴) updated with contributions to my personal projects.     
+This space works mostly as an archive of my previous academic work at the University of Bern 🇨🇭 and The University of Queensland 🇦🇺 and will be (infrequently 😴) updated with contributions to few projects.     
 
 ### 📜 Some of my completed projects include:
 - looking at association of voting patterns and excess mortality in Switzerland [here](https://github.com/RPanczak/ISPM_excess-mortality-voting)  
