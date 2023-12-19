@@ -9,6 +9,7 @@ I'm currently working as a senior data scientist at [@syngenta](https://github.c
 This space works mostly as an archive of my previous academic work at the University of Bern 🇨🇭 and The University of Queensland 🇦🇺 and will be (infrequently 😴) updated with contributions to my personal projects.     
 
 ### 📜 Some of my completed projects include:
+- looking at association of voting patterns and excess mortality in Switzerland [here](https://github.com/RPanczak/ISPM_excess-mortality-voting)  
 - update & re-validation of second release of the Swiss-SEP index [here](https://github.com/RPanczak/SNC_Swiss-SEP2)  
 - leading implementation of version control and open data within [@IeDEA-SA](https://github.com/IeDEA-SA) [here](https://github.com/IeDEA-SA/IeDEA_WG-open-science)
 - investigating influence of socioeconomic position on the COVID-19 testing, hospitalisation and mortality [here](https://github.com/jriou/covid-sep-ch)  
@@ -23,7 +24,6 @@ This space works mostly as an archive of my previous academic work at the Univer
     - Airbnb usage in the [country](https://github.com/RPanczak/TEMPO_Airbnb)
 
 ### 🚀 I'm currently working on:  
-- looking at association of voting patterns and excess mortality in Switzerland [here](https://github.com/RPanczak/ISPM_excess-mortality-voting)  
 - analysing uptake of dolutegravir among people living in HIV in Southern Africa  
 - developing a prognostic model for patients who switched to dolutegravir  
 - development of fourth release of the Swiss-SEP index [here](https://github.com/RPanczak/SNC_Swiss-SEP4)  
