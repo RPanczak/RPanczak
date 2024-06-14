@@ -23,13 +23,7 @@ This space works mostly as an archive of my previous academic work at the Univer
     - scrapped road traffic data in the [city](https://github.com/RPanczak/TEMPO_BCC-traffic)
     - Airbnb usage in the [country](https://github.com/RPanczak/TEMPO_Airbnb)
 
-### 🚀 I'm currently working on:  
-- analysing uptake of dolutegravir among people living in HIV in Southern Africa  
-- developing a prognostic model for patients who switched to dolutegravir  
-- development of fourth release of the Swiss-SEP index [here](https://github.com/RPanczak/SNC_Swiss-SEP4)  
-- helping to strengthen open science movement within [@SwissRN](https://github.com/SwissRN)  
-
-### 🎡 Some fun side projects include:  
+### 🎡 Some of my fun side projects include:  
 - analysing dog permits in Brisbane 🇦🇺 to derive indicators of socioeconomic position [here](https://github.com/RPanczak/FUN_BCC-animal-permits)  
 - analysing publically available Swisscom 🇨🇭 Mobility Insights [here](https://github.com/RPanczak/FUN_swisscom)  
 
